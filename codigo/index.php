@@ -34,7 +34,7 @@ if(isset($_POST['btnCalcular'])){ // Verifica se o formulário foi submetido
 
 ?>
 <!DOCTYPE html>
-<html Lang=en dir=itr>
+<html Lang=en dir=>
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
