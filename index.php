@@ -64,3 +64,4 @@ if(isset($_POST['btnCalcular'])){ // Verifica se o formulário foi submetido
     </form>
 </body>
 </html>
+
